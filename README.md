@@ -5,4 +5,4 @@
 ### After
   ![after](https://github.com/wcharibo/practice/blob/main/123.png)
 ### Conclusion
-  The picture is enlarged without breaking. So the ppi was raised but it's not impressive result.
+  The picture is enlarged without breaking. So the file size was raised but it's not impressive result.
